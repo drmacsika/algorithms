@@ -1,4 +1,4 @@
-# Algorithms Tutorial Using Python
+# Algorithms Tutorial Baby-Steps to Complete Mastery
 
 
 ## [Learn Algorithms from Baby-Steps to Complete Mastery on nsikakimoh.com](https://nsikakimoh.com/learn/algorithms-baby-steps-to-complete-mastery).
